@@ -55,4 +55,4 @@ const sampleBodyJSONPayload = `
 `
 ```
 
-Preview ReadMe!
+Thanks!
